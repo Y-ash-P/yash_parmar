@@ -417,9 +417,10 @@
 
   .mh-skills .mh-professional-skill {
     padding-right: 0;
-    padding: 0 15px; }
+    padding: 50px 15px; }
 
   .mh-experince h3 {
+    margin-top: 80px;
     margin-bottom: 30px;
     text-align: center; }
 
@@ -429,13 +430,21 @@
 
   .mh-work {
     padding-left: 0;
-    margin-bottom: 30px; }
+    margin-bottom: 40px; }
+  
+  .mh-portfolio h3{
+    margin-top: 50px;
+  }
 
   .portfolio-nav ul li {
     margin-bottom: 20px; }
 
   .mh-skills .mh-professional-skill {
     margin-bottom: 50px; }
+
+  .mh-footer h3{
+    margin-top: 50px;
+  }
 
   .section-separator {
     padding: 30px 0; }
