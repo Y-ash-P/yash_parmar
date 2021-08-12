@@ -881,7 +881,7 @@ body {
   border-color: #EA0B0B; }
 
 .section-loader .loader div:nth-child(2) {
-  border-color: #000000;
+  border-color: #EA0B0B;
   -webkit-animation-delay: -0.7s;
   animation-delay: -0.7s; }
 
@@ -1124,6 +1124,7 @@ body {
       margin-left: 10px; }
       .mh-about-img{
         margin-top: 50px;
+        color: #6a4aed;
       }
 
 .mh-about-tag {
